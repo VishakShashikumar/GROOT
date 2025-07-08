@@ -1,0 +1,10 @@
+YourRepo/
+├─ data/
+│  └─ (CSV, raw data, etc.)
+├─ notebooks/
+│  └─ (ipynb, exploratory work)
+├─ src/
+│  └─ (Python modules, apps)
+├─ LICENSE
+├─ README.md
+└─ requirements.txt
