@@ -192,8 +192,8 @@ Open your browser at the indicated URL (often `localhost:8501`).
 
 ## Contact & Acknowledgments
 
-- **Authors**: [Dhanush Balakrishna](https://unrealdhanush.com/)
-- **License**: MIT (or whichever license you prefer).
+- **Authors**: Vishak Shashikumar
+- **License**: MIT 
 - **Acknowledgments**:
   - PhysioNet / MIT for providing the MIMIC-IV dataset.
   - Hugging Face for Transformers and tokenizers.
